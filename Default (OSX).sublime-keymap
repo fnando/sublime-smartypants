@@ -1,0 +1,4 @@
+[
+  { "keys": ["ctrl+s"], "command": "smarty_pants" },
+  { "keys": ["ctrl+shift+s"], "command": "unsmarty_pants" },
+]

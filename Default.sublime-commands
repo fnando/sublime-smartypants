@@ -1,0 +1,11 @@
+[
+  {
+    "caption": "SmartyPants: Apply Better Typography",
+    "command": "smarty_pants"
+  },
+
+  {
+    "caption": "SmartyPants: Remove Better Typography",
+    "command": "unsmarty_pants"
+  }
+]
